@@ -1,9 +1,18 @@
-[
-    "photos/_DSC0787.jpg", 
-    "photos/_DSC8279.jpg", 
-    "photos/DSC00325.jpg",
-    "photos/_DSC8196.jpg", 
-    "photos/_DSC8048.jpg", 
-    "photos/_DSC8141.jpg", 
-    "photos/_DSC8191.jpg"
-]
+{
+    "gallery" : [
+        "/gallery/_DSC0787.jpg", 
+        "/gallery/_DSC8279.jpg", 
+        "/gallery/DSC00325.jpg",
+        "/gallery/_DSC8196.jpg", 
+        "/gallery/_DSC8048.jpg", 
+        "/gallery/_DSC8141.jpg", 
+        "/gallery/_DSC8191.jpg"
+    ],
+    "home": [
+        "/home/_DSC0787.jpg", 
+        "/home/_DSC8196.jpg", 
+        "/home/_DSC8048.jpg", 
+        "/home/_DSC8141.jpg", 
+        "/home/_DSC8191.jpg"
+    ]
+}
