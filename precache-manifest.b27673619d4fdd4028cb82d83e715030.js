@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "6f23661cdb6116c1ed8d",
+    "revision": "098f09a1ce4aa97c4429",
     "url": "/photography/static/css/main.cd05a770.chunk.css"
   },
   {
-    "revision": "6f23661cdb6116c1ed8d",
-    "url": "/photography/static/js/main.6f23661c.chunk.js"
+    "revision": "098f09a1ce4aa97c4429",
+    "url": "/photography/static/js/main.098f09a1.chunk.js"
   },
   {
     "revision": "f09d6da400d0c14a7f1d",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/photography/static/media/cooper-hewitt.light.c673f1bd.otf"
   },
   {
-    "revision": "8834d307849e2559cac5267cf1a1151a",
+    "revision": "3198919f8f0eec71964315c14fff3c11",
     "url": "/photography/index.html"
   }
 ];
