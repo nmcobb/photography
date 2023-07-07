@@ -1,7 +1,7 @@
 {
   "main.css": "./static/css/main.1def03f3.chunk.css",
-  "main.js": "./static/js/main.85ac7b83.chunk.js",
-  "main.js.map": "./static/js/main.85ac7b83.chunk.js.map",
+  "main.js": "./static/js/main.7d060a76.chunk.js",
+  "main.js.map": "./static/js/main.7d060a76.chunk.js.map",
   "static/js/1.f09d6da4.chunk.js": "./static/js/1.f09d6da4.chunk.js",
   "static/js/1.f09d6da4.chunk.js.map": "./static/js/1.f09d6da4.chunk.js.map",
   "static/js/2.8bba0af1.chunk.js": "./static/js/2.8bba0af1.chunk.js",
@@ -11,6 +11,6 @@
   "static/media/index.css": "./static/media/cooper-hewitt.light.c673f1bd.otf",
   "static/css/main.1def03f3.chunk.css.map": "./static/css/main.1def03f3.chunk.css.map",
   "index.html": "./index.html",
-  "precache-manifest.ed3e10f808ce69ffefd707e706e26f13.js": "./precache-manifest.ed3e10f808ce69ffefd707e706e26f13.js",
+  "precache-manifest.d1f6cebc9466dd21b85e23456ccf27c8.js": "./precache-manifest.d1f6cebc9466dd21b85e23456ccf27c8.js",
   "service-worker.js": "./service-worker.js"
 }
