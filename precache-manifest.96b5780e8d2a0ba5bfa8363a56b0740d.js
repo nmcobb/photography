@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/photography/static/media/cooper-hewitt.light.c673f1bd.otf"
   },
   {
-    "revision": "5e4d5adb63f98d36257ab99727b5d05f",
+    "revision": "7a73e2c7e2ece98302967af8da14031a",
     "url": "/photography/index.html"
   }
 ];
